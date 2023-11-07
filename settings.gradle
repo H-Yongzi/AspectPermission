@@ -1,0 +1,3 @@
+rootProject.name = "AspectPermission"
+include ':app'
+include ':permission'
